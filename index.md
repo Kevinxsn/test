@@ -58,7 +58,7 @@ The data about housing prices is provided by [`Zillow`](https://www.zillow.com/)
 | **StateName** | The name of state that this region belongs to. |
 | **Metro** | The name of metro that this region belongs to. |
 | **StateCodeFIPS** | County FIPS codes in the United States are usually (with a few exceptions) in the same sequence as alphabetized county names within a state. |
-The rest of the column are just the housing price of each different region on the time showed by the column name. Showed as YYYY-MM-DD.
+
 
 
 ### perXXXX.csv
