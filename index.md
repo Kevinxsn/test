@@ -28,6 +28,7 @@ The data about housing prices is provided by [`Zillow`](https://www.zillow.com/)
 
 ### population.csv
 This dataset provide the information of the population changes over the past few years in different counties. 
+
 | Header | Description |
 | --- | --- |
 | **STATE** | Numbered starting from 1, in the order of the first letter of each state. |
@@ -52,6 +53,7 @@ This dataset provide the information of the population changes over the past few
 
 ### housing_price.csv
 This dataset provide the information of the housing price changes over the past few years in different counties. 
+
 | Header | Description |
 | --- | --- |
 | **RegionID** | ID of each county in the US. |
