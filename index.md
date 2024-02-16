@@ -2,7 +2,9 @@
 title: Home
 layout: home
 ---
-Project 4 Housing Price
+# Project 4 Housing Price
+
+---
 
 ## Table of Contents
 {: .no_toc .text-delta }
