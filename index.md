@@ -42,6 +42,10 @@ The data about housing prices is provided by [`Zillow`](https://www.zillow.com/)
 | **RBIRTH XXXX** | Estimated birth rate based on census in year XXXX. |
 | **RDEATH XXXX** | Estimated death rate based on census in year XXXX. |
 | **RNATURALCHG XXXX** | Estimated rate of natural population change based on census in year XXXX. |
+| **RINTERNATIONALMIG XXXX** | Estimated rate of international imigrant change based on census in year XXXX. |
+| **RDOMESTICMIG XXXX** | Estimated rate of demostic imigrant change based on census in year XXXX. |
+| **RNETMIG XXXX** | Estimated rate of net inmigrant change based on census in year XXXX. |
+
 
 
 
