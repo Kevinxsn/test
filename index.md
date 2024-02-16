@@ -32,6 +32,18 @@ The data about housing prices is provided by [`Zillow`](https://www.zillow.com/)
 | **STNAME** | Name of each state. |
 | **CTYNAME** | Name of each county. |
 | **POPESTIMATE XXXX** | Estimated population based on census in year XXXX. |
+| **NPOPCHG XXXX** | Estimated population change based on census in year XXXX. |
+| **BIRTHS XXXX** | Estimated number of births based on census in year XXXX. |
+| **DEATHS XXXX** | Estimated number of deaths based on census in year XXXX. |
+| **NATURALCHG XXXX** | Estimated number of deaths based on census in year XXXX. |
+| **INTERNATIONALMIG2020 XXXX** | Estimated number of international imigrant based on census in year XXXX. |
+| **DOMESTICMIG XXXX** | Estimated number of domestic imigrant based on census in year XXXX. |
+| **NETMIG XXXX** | Estimated number of net imigrant based on census in year XXXX. |
+| **RBIRTH XXXX** | Estimated birth rate based on census in year XXXX. |
+| **RDEATH XXXX** | Estimated death rate based on census in year XXXX. |
+| **RDEATH XXXX** | Estimated death rate based on census in year XXXX. |
+
+
 
 
 
