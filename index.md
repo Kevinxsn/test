@@ -12,6 +12,8 @@ layout: home
 
 ---
 
+# Project 4 Housing Price
+
 ## Overview
 
 Housing prices serve as a key indicator of a region's economic health. The fluctuation of housing prices over time offers insights into the region's development to a certain degree. In this project, you will explore notable trends in housing prices over the past decade, alongside their correlation with changes in environmental conditions such as precipitation and temperature. An exciting aspect of this project is the opportunity to select the datasets you find most compelling for the topic you chose. You will engage in data manipulation techniques such as concatenation and merging of DataFrames, skills that were introduced at the start of this course!
