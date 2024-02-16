@@ -36,7 +36,7 @@ The data about housing prices is provided by [`Zillow`](https://www.zillow.com/)
 | **BIRTHS XXXX** | Estimated number of births based on census in year XXXX. |
 | **DEATHS XXXX** | Estimated number of deaths based on census in year XXXX. |
 | **NATURALCHG XXXX** | Estimated number of deaths based on census in year XXXX. |
-| **INTERNATIONALMIG2020 XXXX** | Estimated number of international imigrant based on census in year XXXX. |
+| **INTERNATIONALMIG XXXX** | Estimated number of international imigrant based on census in year XXXX. |
 | **DOMESTICMIG XXXX** | Estimated number of domestic imigrant based on census in year XXXX. |
 | **NETMIG XXXX** | Estimated number of net imigrant based on census in year XXXX. |
 | **RBIRTH XXXX** | Estimated birth rate based on census in year XXXX. |
@@ -45,6 +45,20 @@ The data about housing prices is provided by [`Zillow`](https://www.zillow.com/)
 | **RINTERNATIONALMIG XXXX** | Estimated rate of international imigrant change based on census in year XXXX. |
 | **RDOMESTICMIG XXXX** | Estimated rate of demostic imigrant change based on census in year XXXX. |
 | **RNETMIG XXXX** | Estimated rate of net inmigrant change based on census in year XXXX. |
+
+
+### housing_price.csv
+
+| Header | Description |
+| --- | --- |
+| **RegionID** | ID of each county in the US. |
+| **SizeRank** | Ranking of each county based on size. |
+| **RegionName** | Name of each region. |
+| **RegionType** | Type of each region, in this case, allof them are countyes. |
+| **StateName** | The name of state that this region belongs to. |
+| **Metro** | The name of metro that this region belongs to. |
+| **StateCodeFIPS** | County FIPS codes in the United States are usually (with a few exceptions) in the same sequence as alphabetized county names within a state. |
+The rest of the column are just the housing price of each different region on the time showed by the column name. Showed as YYYY-MM-DD.
 
 
 
