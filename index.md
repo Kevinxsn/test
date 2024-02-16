@@ -2,7 +2,7 @@
 title: Home
 layout: home
 ---
-# Project 4 Housing Price
+# Project 4 Housing Price 🏘️💰
 
 ---
 
