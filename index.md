@@ -21,6 +21,15 @@ You can get the data from [`here`]().
 
 The data about housing prices is provided by [`Zillow`](https://www.zillow.com/). The data about the weather is provided by [`United States Census Bureau`](https://www.census.gov/). 
 
+## Data Introduction
+
+### population.csv
+
+| Header | Description |
+| --- | --- |
+| **STATE** | Numbered starting from 1, in the order of the first letter of each state. |
+
+
 
 This is a *bare-minimum* template to create a Jekyll site that uses the [Just the Docs] theme. You can easily set the created site to be published on [GitHub Pages] – the [README] file explains how to do that, along with other details.
 
