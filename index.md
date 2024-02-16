@@ -2,7 +2,7 @@
 title: Home
 layout: home
 ---
-
+Project 4 Housing Price
 
 ## Table of Contents
 {: .no_toc .text-delta }
@@ -12,7 +12,6 @@ layout: home
 
 ---
 
-# Project 4 Housing Price
 
 ## Overview
 
@@ -108,6 +107,6 @@ It's a dataset contains the temprature for the year of XXXX. Feel free to only l
 1. How do changes in GDP correlate with housing price trends in different counties? 
 2. Is there a correlation between average temperature or precipitation levels and housing prices in a region?
 3. How does population growth in each county affect housing prices over time?
-4. Are there any short-term fluctuations in housing prices that correlate with extreme weather events or sudden changes in economic conditions (e.g., recessions)?
+4. Are there any short-term fluctuations in housing prices that correlate with extreme weather events or sudden changes in economic conditions?
 5. How has the affordability of housing (housing prices relative to GDP per capita or average incomes) changed over time in different counties?
 
