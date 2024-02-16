@@ -18,7 +18,8 @@ Housing prices serve as a key indicator of a region's economic health. The fluct
 
 ## Getting The Data
 You can get the data from [`here`](). 
-The data about housing prices is provided by [`Zillow`](https://www.zillow.com/). 
+
+The data about housing prices is provided by [`Zillow`](https://www.zillow.com/). The data about the weather is provided by [`United States Census Bureau`](https://www.census.gov/). 
 
 
 This is a *bare-minimum* template to create a Jekyll site that uses the [Just the Docs] theme. You can easily set the created site to be published on [GitHub Pages] – the [README] file explains how to do that, along with other details.
