@@ -3,8 +3,6 @@ title: Home
 layout: home
 ---
 
-# Welcome to DSC Project4 (Housing Price)
-
 
 ## Table of Contents
 {: .no_toc .text-delta }
