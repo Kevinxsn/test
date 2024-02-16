@@ -61,6 +61,18 @@ The data about housing prices is provided by [`Zillow`](https://www.zillow.com/)
 The rest of the column are just the housing price of each different region on the time showed by the column name. Showed as YYYY-MM-DD.
 
 
+### perXXXX.csv
+It's a dataset contains the precipitation for the year of XXXX. Feel free to only load the dataset file that useful for your project. 
+
+| Header | Description |
+| --- | --- |
+| **Name** | Name of each county. |
+| **State** | The name of state that this county belongs to. |
+| **Value** | mean precipitation for this year in this county in inches. |
+| **Rank** | Ranking of the precipitation of the this county among all of the counties in the US, from low to high. |
+| **Anomaly (1901-2000 base period)** | The degree of abnormality observed over the past few years(based on 1901-2000). |
+| **1901-2000 Mean** | The mean precipitation of this region from 1901-2000. |
+
 
 
 
