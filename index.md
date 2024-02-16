@@ -28,6 +28,10 @@ The data about housing prices is provided by [`Zillow`](https://www.zillow.com/)
 | Header | Description |
 | --- | --- |
 | **STATE** | Numbered starting from 1, in the order of the first letter of each state. |
+| **COUNTY** | Numbered starting from 1, in the order of the first letter of each county in each state. |
+| **STNAME** | Name of each state. |
+| **CTYNAME** | Name of each county. |
+| **POPESTIMATE XXXX** | Estimated population based on census in year XXXX. |
 
 
 
